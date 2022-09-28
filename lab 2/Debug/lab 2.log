@@ -1,0 +1,7 @@
+﻿  lab 2.cpp
+D:\учеба\2 курс\оса\lab 2\database.cpp(8,7): warning C4101: a: неиспользованная локальная переменная
+D:\учеба\2 курс\оса\lab 2\lab 2.cpp(20,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\учеба\2 курс\оса\lab 2\lab 2.cpp(27,1): error C2883: fgets: объявление функции вступает в конфликт с "fgets", присутствующем в "using"-объявлении
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(198): message : см. объявление "fgets"
+D:\учеба\2 курс\оса\lab 2\lab 2.cpp(57,5): error C2084: функция "int main(void)" уже имеет текст реализации
+D:\учеба\2 курс\оса\lab 2\database.cpp(7): message : см. предыдущее определение "main"
